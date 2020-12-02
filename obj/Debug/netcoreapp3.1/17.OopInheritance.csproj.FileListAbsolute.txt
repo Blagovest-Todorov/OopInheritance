@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.exe
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.deps.json
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.dll
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\bin\Debug\netcoreapp3.1\17.OopInheritance.pdb
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.dll
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.pdb
+C:\Users\Bla\source\repos\OOP\17.OopInheritance\obj\Debug\netcoreapp3.1\17.OopInheritance.genruntimeconfig.cache
