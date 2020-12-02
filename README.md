@@ -1,0 +1,2 @@
+# OopInheritance
+what is inheritance
